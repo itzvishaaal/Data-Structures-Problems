@@ -1,5 +1,5 @@
 # Data-Structures-Problems
 
-# Array
+## Array
 
 1. Reverse an array or String
